@@ -583,6 +583,7 @@ body {
 .intro--banner h1 {
     position: relative;
     font-size: 68px;
+    word-wrap: break-word;
     font-weight: 900;
     line-height: 1;
     z-index: 1;
@@ -695,7 +696,7 @@ body {
     height: 360px;
 }
 .intro--banner h1 {
-    font-size: 55px;
+    font-size: 45px;
 }
 .intro--banner img {
     display: none;
@@ -1068,7 +1069,7 @@ body {
 }
 .about--banner h2 {
     margin-top: 0;
-    font-size: 55px;
+    font-size: 35px;
 }
 .about--banner h2::before {
     top: 43px;
